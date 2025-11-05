@@ -116,7 +116,7 @@ For major changes, please open an issue first to discuss what you would like to 
 ## 🧑‍💻 Author
 
 **Suraj Kumar**
-📧 [[your-sk5379390@gmail.com](mailto:sk5379390@gmail.com)]
+📧 [[sk5379390@gmail.com](mailto:sk5379390@gmail.com)]
 
 ---
 
