@@ -1,6 +1,6 @@
-# 🛍️ E-Commerce Fashion Web App
+# 🛍️ E-Commerce Myntra Clone Web App
 
-An elegant and responsive **E-Commerce Fashion Website** where users can browse, search, and shop for trendy fashion products.
+An elegant and responsive ** E-Commerce Myntra Clone Web App Website** where users can browse, search, and shop for trendy fashion products.
 Built with modern web technologies to deliver a seamless online shopping experience.
 
 ---
