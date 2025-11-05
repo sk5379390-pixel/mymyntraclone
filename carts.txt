@@ -1,0 +1,61 @@
+[
+    {
+        "user": "sk098@gmail.com",
+        "items": [
+            {
+                "id": 117,
+                "product": "Anouk Women Kurta Set",
+                "price": "1199",
+                "quantity": 1,
+                "image": "images\/kurta.jpg"
+            },
+            {
+                "id": 118,
+                "product": "Roadster Men Slim Fit Shirt",
+                "price": "899",
+                "quantity": 1,
+                "image": "images\/shirt.jpg"
+            }
+        ]
+    },
+    {
+        "user": "sk98@gmail.com",
+        "cart": {
+            "101": {
+                "title": "Anouk Women Kurta Set",
+                "price": 1199,
+                "img": "images\/kurtaset1.webp",
+                "qty": 5
+            },
+            "104": {
+                "title": "Roadster Checked Shirt",
+                "price": 749,
+                "img": "images\/4.webp",
+                "qty": 3
+            },
+            "105": {
+                "title": "Peter England Premium Shirt",
+                "price": 3499,
+                "img": "images\/5.webp",
+                "qty": 1
+            },
+            "103": {
+                "title": "White Cotton Casual Shirt",
+                "price": 899,
+                "img": "images\/3.webp",
+                "qty": 1
+            }
+        }
+    },
+    {
+        "user": "sk21@gmail.com",
+        "cart": {
+            "104": {
+                "title": "W for Woman A-Line Kurta",
+                "price": 749,
+                "img": "images\/w4.webp",
+                "qty": 1
+            }
+        }
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "email": "sk5379390@gmail.com",
+        "password": "Kumarsu@321"
+    },
+    {
+        "email": "sk5379390@gmail.com",
+        "password": "Kumarsu@321"
+    },
+    {
+        "email": "sk537390@gmail.com",
+        "password": "$2y$10$\/LfUeHq0y6EqrPF9qAXsLOk9OYdQEGjfJQxdFhfoQyBW8RdMgMRyu"
+    },
+    {
+        "email": "sk53793@gmail.com",
+        "password": "$2y$10$1lg7x5tzI9lwdg.sKuu0zetuqBVq1fq3Quz9kMusYX0Wd.rqWZL1u"
+    },
+    {
+        "email": "sdm21@gmail.com",
+        "password": "$2y$10$U0rmFXOLPBF2G.MxfDkvOuIV\/V.iII1Vrkh6hPgxYC54Xnu0EAeCC"
+    },
+    {
+        "email": "k5379390@gmail.com",
+        "password": "$2y$10$9unvzmQ8.jBLxAtWg2NyzuX\/mAYwdCjue0m4o\/IRNyjieZKUVkmWq"
+    },
+    {
+        "email": "uk5379390@gmail.com",
+        "password": "$2y$10$FyoSahO2yR8k9\/sHausQF.RNVjBuBm7VAtYdM7xN1pYwn3ZygMnvy"
+    },
+    {
+        "email": "rk5379390@gmail.com",
+        "password": "$2y$10$7I4GQHq2OAlSBVun0ROdzuzmotwPvG0VwD.e\/X9zPbfug4hjmjLkS"
+    },
+    {
+        "email": "lk5379390@gmail.com",
+        "password": "$2y$10$t0KM29ZKmEQtR75RDZVsm.w8SdXj0CoNpAa3tf7ShNHluUieGVjSu"
+    },
+    {
+        "email": "sk537939@gmail.com",
+        "password": "$2y$10$rYNZDo.YP\/7QJMjhKn\/fS.ud9rUywZUCjRnnz8deOGx\/HPtGqRYzi"
+    },
+    {
+        "email": "sk537930@gmail.com",
+        "password": "$2y$10$CjkHylLysfCaZA\/DWoODce09VsqKU6kBjGWmyQicaH8sZDvg997QO"
+    },
+    {
+        "email": "sk537@gmail.com",
+        "password": "$2y$10$gC8FiWaRByDaXZzeTFhBG.0w64Kp0sI5IMm9QNK.Ycb8veo5JPlUW"
+    },
+    {
+        "email": "sk53@gmail.com",
+        "password": "$2y$10$VPwMmTqBzPEW2gr5\/4ESFuUbwxQdFwwR7k23.nOVpuqdTfJcDcY5K"
+    },
+    {
+        "email": "sk5@gmail.com",
+        "password": "$2y$10$ZXSsvzMIn1xpwCbdMLaqb.Rjc1.Xwrj36lEO\/o0hjfrBlNTL7TjuC"
+    },
+    {
+        "email": "sk123@gmail.com",
+        "password": "$2y$10$qXqP5pS7dgpl8HpWT6xT3O0nHEFbt4B85zq2L5xD3TiC8Wio3W8d2"
+    },
+    {
+        "email": "sk321@gmail.com",
+        "password": "$2y$10$5nFPc0wCmQJyxpRcKa8kCOcCc8XgmGgiG4xKMYPDGVTlgxe7RfaW."
+    },
+    {
+        "email": "sk987@gmail.com",
+        "password": "$2y$10$iqetVGvLcNLO52Ws1boRCuzOov5hB9z1Ao\/rxd20Keib4TvhAibOK"
+    },
+    {
+        "email": "sk098@gmail.com",
+        "password": "$2y$10$kMbWd6tgci6XRImJnDyB8eiVvL1I1S9.bH9weOF8aWkqNO\/S3rlD2"
+    },
+    {
+        "email": "sk432@gmail.com",
+        "password": "$2y$10$kJPjkWI4KZYB9obRcB\/HleB.UVoU9rrRRHLcICXWki2TgXJObrLGK"
+    },
+    {
+        "email": "sk678@gmail.com",
+        "password": "$2y$10$STsFjx9oXZon83nB0SaHZubJfDMZkYIKd4EHLpynM7OQ2DPnzZgkW"
+    },
+    {
+        "email": "sk876@gmail.com",
+        "password": "$2y$10$OvC9KdJn7XhUM8gsLy3g9e7Svbr0ZiI7734UV9PaNiMB1JJ399fYi"
+    },
+    {
+        "email": "sk98@gmail.com",
+        "password": "$2y$10$xgzKANgmlyjIGdkQudnqreuxC6QmEsDJ2WF7D9SGYIkHS80.3nj7O"
+    },
+    {
+        "email": "sk000@gmail.com",
+        "password": "$2y$10$INry3gdoQutP7uPY2EJmhuD1DAegg66BY1jmgdPLe\/4ZXbAunrXji"
+    },
+    {
+        "email": "sk21@gmail.com",
+        "password": "$2y$10$bhZFzTFTD7hX4nkPH\/AgSOZVoCkE9Ol6egVYptRNdW4whV.b1E.a."
+    },
+    {
+        "email": "sk0909@gmail.com",
+        "password": "$2y$10$d6DGLCO0jmJ0qb\/hT7jlD.qMhckkj4LvBQqZWtZDEbOinANPRkMFG"
+    },
+    {
+        "email": "sk888@gmail.com",
+        "password": "$2y$10$1Lv74QArZPVA6aw7oU9hMepOwvuPDWlkAJe6XDoS5Gc6p2AtY.ooO"
+    },
+    {
+        "email": "sk777@gmail.com",
+        "password": "$2y$10$MqSTacSohhRnLyA2rrJyl.bBdVF1\/SWxtQ9x4aHZL8bec2aNBwb\/i"
+    },
+    {
+        "email": "sk999@gmail.com",
+        "password": "$2y$10$DlE8tsZdWF2LlIN3LAvDduwCGTLqd8A7H7aHzdIvv9JCFbbF5n6\/K"
+    }
+]

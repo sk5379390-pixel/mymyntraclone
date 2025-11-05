@@ -1,0 +1,48 @@
+[
+    {
+        "user": "sk537930@gmail.com",
+        "wishlist": []
+    },
+    {
+        "user": "sk537@gmail.com",
+        "wishlist": [
+            118,
+            117
+        ]
+    },
+    {
+        "user": "sk321@gmail.com",
+        "wishlist": []
+    },
+    {
+        "user": "sk98@gmail.com",
+        "wishlist": [
+            109,
+            110,
+            101
+        ]
+    },
+    {
+        "user": "sk000@gmail.com",
+        "wishlist": []
+    },
+    {
+        "user": "sk21@gmail.com",
+        "wishlist": [
+            104,
+            106
+        ]
+    },
+    {
+        "user": "sk0909@gmail.com",
+        "wishlist": []
+    },
+    {
+        "user": "sk888@gmail.com",
+        "wishlist": []
+    },
+    {
+        "user": "sk777@gmail.com",
+        "wishlist": []
+    }
+]
