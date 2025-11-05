@@ -26,7 +26,7 @@ Built with modern web technologies to deliver a seamless online shopping experie
 ✅ **Order System**
 
 * Place & Cancel Orders
-* View complete Order History
+* View complete Order 
 
 ✅ **Responsive Design**
 
@@ -41,7 +41,7 @@ Built with modern web technologies to deliver a seamless online shopping experie
 | --------------- | ----------------------------------- |
 | Frontend        | HTML5, CSS3, JavaScript, Bootstrap  |
 | Backend         | PHP                                 |
-| Database        | JSON / MySQL (depending on version) |
+| Database        | JSON  |
 | Version Control | Git & GitHub                        |
 
 ---
@@ -49,26 +49,36 @@ Built with modern web technologies to deliver a seamless online shopping experie
 ## 📂 Folder Structure
 
 ```
-/ecommerce-fashion/
+/ecommerce-myntra/
 │
-├── index.html
-├── login.php
-├── register.php
-├── products.php
-├── cart.php
-├── orders.php
+├── myntraclone.php
+├── cancelorder.php
+├── place_orders.php
 │
 ├── /css/
 │   └── style.css
 │
 ├── /js/
-│   └── script.js
+│   └── myntraclone.js
 │
 ├── /images/
 │   └── product-images
 │
 └── /php/
-    └── backend files
+    └── shirts.php
+ └── tshirt.php
+ └── shoes.php
+ └── kurtasets.php
+ └── dress.php
+ └── clothing.php
+ └── toys.php
+ └── homedecor.php
+ └── kitchen.php
+ └── skincare.php
+ └── makeup.php
+ └── fashion.php
+ └── as.php
+
 ```
 
 ---
@@ -99,10 +109,13 @@ Built with modern web technologies to deliver a seamless online shopping experie
 
 ## 💡 Future Enhancements
 
-* Payment Gateway Integration (Razorpay / Stripe)
+* Payment Gateway Integration 
 * Wishlist System
-* Admin Dashboard for Product Management
+* Add to cart functionality
 * User Profile Section
+* view order
+* cancel order
+* serch by brand and products 
 
 ---
 
